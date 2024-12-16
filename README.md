@@ -1,1 +1,1 @@
-![Diagram](**Blank diagram.png**)
+![Diagram](diagram.png)
